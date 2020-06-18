@@ -6,7 +6,7 @@
 
 download pygame-gui-lib.py to your local code directory.
 
-```
+```python
 from pygame_gui_lib import *
 ```
 
@@ -27,7 +27,7 @@ EG:
 ```
 
 Calling the python_GUI function should show your pygame window breifly, indicating it is working
-```
+```python
 windowsize = (300,350)
 
 # Creating new game window
@@ -35,14 +35,14 @@ window1 = python_GUI("example",windowsize)
 ```
 
 Or calling printing colors.red should return the correct RGB value:
-```
+```python
 print(colors.red)
 # >>> (255,0,0)
 ```
 
 ## Example of code
 
-```
+```python
 from pygame_gui_lib import *
 
 windowsize = (300,350)

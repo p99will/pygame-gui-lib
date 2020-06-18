@@ -1,14 +1,4 @@
 # pygame gui lib
- libiary to kick start the use of pygame
-
-I made this small libary to speed up the development of small projects that work well with a GUI interface.
-
-Please refer to the example.py for use on the lib.
-
-Dependancies: 
- pygame
- 
-# pygame gui lib
 
  libiary to kick start the use of pygame
 
